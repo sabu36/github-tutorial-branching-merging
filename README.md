@@ -1,10 +1,12 @@
 0. Sign up github; and install `git`
 
-### 1. Setting up a repository (It can be someone else's in practice.)
+### 1. Setting up a repository
 
 ![New repository](/screenshots/new-repository.jpg) -> name it `grocery-list`
 
 ![creating a new file](/screenshots/new-file.jpg) -> `fruits.txt` with text `apple`
+
+If you are working on someone else's repository, *Fork* it.
 
 ### 2. Copying over the repository to your computer
 
