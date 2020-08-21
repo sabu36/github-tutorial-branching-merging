@@ -2,13 +2,9 @@
 
 ### 1. Setting up a repository (It can be someone else's in practice.)
 
-(In github; *Italic*: clickable.)
+![New repository](/screenshots/new-repository.jpg) -> name it `grocery-list`
 
-![New repository](/screenshots/new-repository.jpg)
-... name it `grocery-list`
-
-![creating a new file](/screenshots/new-file.jpg)
-... `fruits.txt` with text `apple`
+![creating a new file](/screenshots/new-file.jpg) -> `fruits.txt` with text `apple`
 
 ### 2. Copying over the repository to your computer
 
