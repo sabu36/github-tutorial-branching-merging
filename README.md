@@ -30,17 +30,17 @@
 In `fruits.txt`, add `orange`.
 
 `$ git status`\
-`$ git commit -m "add orange"` &emsp; `-m` stands for message\
+`$ git commit -m "Add orange"` &emsp; `-m` stands for message\
 The last line did nothing. An additional step is required.
 
 `$ git add fruits.txt`\
 `$ git status`\
-`$ git commit -m "add orange"`
+`$ git commit -m "Add orange"`
 
 ### 5. Adding another fruit
 
 In `fruits.txt`, insert `lemon` between `apple` and `orange`.\
-Commit with message "insert lemon".
+Commit with message "Insert lemon".
 
 ### 6. Uploading the changes to github; and merging it to master branch
 
