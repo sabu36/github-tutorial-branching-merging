@@ -1,4 +1,4 @@
-0. Sign up github; and install `git`
+<n/>0. Sign up github; and install `git`
 
 ### 1. Setting up a repository
 
