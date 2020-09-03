@@ -25,7 +25,7 @@
 
 ### 4. Adding a fruit
 
-In `fruits.txt`, add `orange`.
+Open `fruits.txt` in a text editor; add `orange`.
 
 `$ git status`\
 `$ git commit -m "Add orange"` &emsp; `-m` stands for message\
