@@ -1,5 +1,3 @@
-<n/>0. Sign up github; and install `git`
-
 ### 1. Setting up a repository
 
 ![New repository](./screenshots/new-repository.jpg) -> name it `grocery-list`
