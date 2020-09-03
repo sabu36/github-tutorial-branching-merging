@@ -2,17 +2,17 @@
 
 ### 1. Setting up a repository
 
-![New repository](/screenshots/new-repository.jpg) -> name it `grocery-list`
+![New repository](./screenshots/new-repository.jpg) -> name it `grocery-list`
 
-![creating a new file](/screenshots/new-file.jpg) -> `fruits.txt` with text `apple`
+![creating a new file](./screenshots/new-file.jpg) -> `fruits.txt` with text `apple`
 
 (If you are working on someone else's repository, you need to *Fork* it here.)
 
 ### 2. Copying over the repository to your computer
 
-![Code](/screenshots/code.jpg)
+![Code](./screenshots/code.jpg)
 
-(in terminal `$`)
+(Open terminal `$`.)
 
 `$ git clone [copied-url]` &emsp; creates a directory `grocery-list`
 
