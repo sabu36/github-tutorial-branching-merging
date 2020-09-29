@@ -1,3 +1,2 @@
-## Quickstarts / 取っ掛かり
-### Topics
-* [github](/github/README.md)
+0. Sign up on github; Install `git`
+1. [Branching and merging](./branching-merging.md)
