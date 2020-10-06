@@ -1,10 +1,10 @@
 ### 1. Setting up a repository
 
+(If you are working on someone else's repository, just push *Fork* button instead.)
+
 ![New repository](./screenshots/new-repository.jpg) -> name it `grocery-list`
 
 ![creating a new file](./screenshots/new-file.jpg) -> `fruits.txt` with text `apple`
-
-(If you are working on someone else's repository, you need to *Fork* it here.)
 
 ### 2. Copying over the repository to your computer
 
