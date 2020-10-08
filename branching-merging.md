@@ -52,6 +52,8 @@ Commit with message "Insert lemon".
 
 ### 7. Updating the repository in your computer with github's
 
+(Alternatively, delete the directory and then `clone` as in [2nd](#2-copying-over-the-repository-to-your-computer) section.)
+
 `$ git checkout master`\
 `$ git pull origin master`\
 `$ git branch -d add-fruits`
