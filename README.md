@@ -1,4 +1,4 @@
-0. Sign up on github; Install `git`
+0\. Sign up on github; Install `git`
 
 ### 1. Setting up a repository
 
@@ -18,7 +18,7 @@
 
 `$ cd grocery-list` &emsp; `cd` stands for change directory
 
-## A. Working on a single branch
+## A. Working with a single branch
 
 ### A1. Making and saving a change in your computer
 
@@ -36,11 +36,11 @@ The last line did nothing. An additional step is required.
 
 `$ git push`
 
-## B. Working on 2 branches
+## B. Working with 2 branches
 
 ### B1. Creating new branches
 
-`$ git status`
+`$ git status`\
 `$ git branch`
 
 `$ git branch add-pear` &emsp; creates a branch\
@@ -50,7 +50,7 @@ The last line did nothing. An additional step is required.
 
 `$ git checkout add-pear` &emsp; switch to a branch
 
-In `README.md`, add `pear` and commit it.
+In `README.md`, add `pear` and commit it.\
 `$ git push origin add-pear`
 
 (Back to github.)
@@ -67,10 +67,10 @@ Switch to the other branch.
 
 In `README.md`, add `watermelon` and commit it. 
 
-`$ git pull --rebase origin main` &emsp; See graphical [explanation](https://github.com/sabu36/grocery-list.git) of `rebase` (`add-watermelon` is `experiment` in the explanation)
+`$ git pull --rebase origin main` &emsp; see the first 3 diagrams of this [explanation](https://git-scm.com/book/en/v2/Git-Branching-Rebasing) of `rebase`
 
-`$ git status`
-Edit `README.md` so that we have
+`$ git status`\
+Edit `README.md` so that we have:
 ```
 apple
 orange
