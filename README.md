@@ -93,3 +93,8 @@ Pull request, merge, and delete branch.
 `$ git pull`\
 `$ git branch -d add-pear add-watermelon` &emsp; `-d` stands for delete
 
+## Closing note
+
+That's it!
+
+If you found something unclear or erroneous, please make an *issue*.
