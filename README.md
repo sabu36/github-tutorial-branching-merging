@@ -12,7 +12,7 @@
 
 ![Code](./screenshots/code.jpg)
 
-(Open terminal `$`.)
+(Open terminal `$`. After entering a command, you're expected to read the output to follow this tutorial.)
 
 `$ git clone [copied-url]` &emsp; creates a directory `grocery-list`
 
