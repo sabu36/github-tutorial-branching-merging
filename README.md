@@ -38,6 +38,8 @@ The last line did nothing. An additional step is required.
 
 ## B. Working with 2 branches
 
+This is for when working with other people.
+
 ### B1. Creating new branches
 
 `$ git status`\
@@ -47,6 +49,8 @@ The last line did nothing. An additional step is required.
 `$ git branch add-watermelon`
 
 ### B2. Working on one of the branches
+
+This simulates another person modifying the file before you upload your change (in step B3).
 
 `$ git checkout add-pear` &emsp; switch to a branch
 
